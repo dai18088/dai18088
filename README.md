@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:dai18088@uom.edu.gr)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dai18088)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
@@ -57,6 +56,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
