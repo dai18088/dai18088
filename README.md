@@ -14,23 +14,17 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?{dai18088}={dai18088})
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true">
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+### Hi there I'm Luca :lemon:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![lucafluri.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
+[![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
+  
+  
+👨‍💻 24 Years old Developer  
+👨‍🎓 Studying Computer Science here in Switzerland  
+🚧 **Current Project:** [Price Tracker](https://github.com/dai18088/price_tracker)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-dai18088&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dai18088=your-github-dai18088&layout=compact&theme=vision-friendly-dark)](https://github.com/dai18088/github-readme-stats)
+⭐️ From [lucafluri](https://github.com/dai18088)
