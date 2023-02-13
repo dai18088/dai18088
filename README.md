@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🧐 About
 
-- 👨‍💻 My blog
+- 👨‍💻 I love programming, writing, speaking and traveling
 - 👨‍🎓 Studying Computer Science at [University of Macedonia](https://www.uom.gr/en)
 - 📫 How to reach me: dai18088@uom.edu.gr
 - 🌱 Languages and Tools: 
