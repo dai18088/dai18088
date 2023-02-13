@@ -38,4 +38,28 @@ Here are some ideas to get you started:
     </div>
 
 
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   49 mins         ██████████████████░░░░░░░   71.96 %
+JavaScript   15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+```
+
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
 ⭐️ From [Marios](https://github.com/dai18088)
