@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-dai18088&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dai18088=your-github-dai18088&layout=compact&theme=vision-friendly-dark)](https://github.com/dai18088/github-readme-stats)
