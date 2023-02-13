@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://yaronzz.top
+- 👨‍💻 My blog
+- 👨‍🎓 Studying Computer Science at [University of Macedonia](https://www.uom.gr/en)
 - 📫 How to reach me: dai18088@uom.edu.gr
 - 🌱 Languages and Tools: 
 
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/android-studio.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
