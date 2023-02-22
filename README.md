@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/MarinelBalliu)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/MarinelBalliu)]
+(https://twitter.com/MarinelBalliu)  
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:dai18088@uom.edu.gr)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dai18088)
 
