@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&theme=dark&langs_count=10)" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&theme=dark&langs_count=10" align="center"/>
 
 
 ⭐️ From [Marios](https://github.com/dai18088)
